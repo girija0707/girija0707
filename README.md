@@ -28,4 +28,6 @@ Skills: JS / HTML / CSS/c++
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=girija0707)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=girija0707)
+
 
