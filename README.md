@@ -30,4 +30,13 @@ Skills: JS / HTML / CSS/c++
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=girija0707)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=girija0707&show_icons=true) 
+
+![GitHub metrics](https://metrics.lecoq.io/girija0707) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=girija0707)
+
+![Profile views](https://gpvc.arturio.dev/girija0707) 
+
+
 
