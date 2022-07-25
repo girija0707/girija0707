@@ -12,7 +12,6 @@
 
 
 
-- ⚡ Fun fact: I'm left handed✌️
 
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
